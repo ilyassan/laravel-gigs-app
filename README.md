@@ -47,6 +47,5 @@ php artisan serve
 -   PHP
 -   Composer
 -   Laravel
--   XAMPP
 
 *NOTE* : Don't forget to run the MySQL server.
