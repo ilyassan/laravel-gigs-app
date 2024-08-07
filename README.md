@@ -1,9 +1,13 @@
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 
-# Description
+# Laravel Gigs App
 
 Laragigs is a web application to listing jobs using Laravel framework with MySQL database, created during studying Laravel course by Brad Traversy.
+
+## Why Did I Build This?
+
+This project marks my entry into Laravel, one of the most widely used PHP frameworks. The goal was to learn the basics of Laravel before tackling on more complex things.
 
 ## Features
 
